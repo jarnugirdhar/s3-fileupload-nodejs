@@ -1,4 +1,4 @@
-# s3-fileupload-nodejs
+# AWS S3 File Upload
 File upload to AWS S3 Bucket using NodeJS Express
 
 Everything is in routes/index.js
